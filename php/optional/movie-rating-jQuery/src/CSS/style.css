@@ -1,0 +1,13 @@
+.wrapper__heading {
+    text-align: center;
+}
+/* CSS for table */
+table {
+    width: 100%;
+}
+.wrapper__table, .wrapper__table-head, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px 15px;
+    text-align: center;
+}
